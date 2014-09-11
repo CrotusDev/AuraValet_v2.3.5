@@ -3,7 +3,7 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "com.crotus.auravalet"
         versionCode = "8" 
-        version     = "2.3.4" >
+        version     = "2.3.5" >
         <!-- versionCode is optional and Android only -->
         <name>Aura Valet</name>
         <description>Aura Valet</description>
